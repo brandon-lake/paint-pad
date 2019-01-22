@@ -1,5 +1,5 @@
 # paint-pad
-A JavaFX paint program
+A JavaFX paint program, made in my second semester of school
 
 Program includes functionality for:
 - drawing with different shapes
